@@ -11,10 +11,7 @@
 <img align = "left"  alt ="JavaScript" src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align = "left"  alt ="Python" src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BenDXC)](https://git.io/streak-stats)
-
+<img align = "center" src = "[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BenDXC)](https://git.io/streak-stats)"/>
 
 
 
