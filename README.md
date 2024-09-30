@@ -13,6 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bendxc&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="bendxc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bendxc&show_icons=true&theme=cobalt&locale=en" alt="bendxc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bendxc&theme=default" alt="bendxc" /></p>
-
