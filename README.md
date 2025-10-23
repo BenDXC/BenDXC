@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ben Danaka</h1>
+<h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passion for IT</h3>
 
 <h3 align="left">Connect with me:</h3>
