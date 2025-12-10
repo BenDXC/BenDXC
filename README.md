@@ -26,29 +26,19 @@ I work with a variety of programming languages, each suited for different types 
 
 ---
 ### 📦 **Active Repositories**:
-- [**Repository 1**](https://github.com/yourusername/repository1)  
-  A brief description of this repository, what it does, and why it's important.
+- [**Repository 1**](https://github.com/BenDXC/C-TextEditor)  
+ BUilding a Text Editor in C
 
-- [**Repository 2**](https://github.com/yourusername/repository2)  
-  Another active project I'm working on, focusing on **[describe the technology or goal]**.
+- [**Repository 2**](https://github.com/BenDXC/Foodable-Web-Dev)  
+  Another active project I'm working on is CRUD App, focusing on **React JS & NodeJS** creating a full stack application for foodbanks.
 
-- [**Repository 3**](https://github.com/yourusername/repository3)  
-  A project where I apply **[mention any specific tools, frameworks, or languages]** to solve **[mention the problem it solves]**.
-
-### 🛠️ **Notable Repositories**:
-- [**Legacy Project**](https://github.com/yourusername/legacy-project)  
-  A past project that helped me refine my **[mention skills or tools used]** and gain valuable experience in **[mention area of expertise]**.
-
-- [**Experimental Projects**](https://github.com/yourusername/experimental-projects)  
-  A collection of fun projects where I try out new technologies and approaches, such as **[mention technology or concept]**.
-
+- [**Repository 3**]((https://github.com/BenDXC/Calculator))  
+  A project where I apply **Java** to create a calculator that also solves **Hexadecimal, Decimal, Binary, Denary, Celsuis & Fahrenheit Conversions**
 ---
 ## 📈 GitHub Stats
 
 ### My GitHub Stats
-![BenDXC's GitHub Stats](https://img.shields.io/github/stats/BenDXC?style=social)
-
-
+[![BenDXC's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenDXC)](https://github.com/BenDXC/github-readme-stats)
 
 ### Most Used Languages
 ![BenDXC's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=radical)
