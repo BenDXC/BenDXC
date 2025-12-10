@@ -46,7 +46,7 @@ I work with a variety of programming languages, each suited for different types 
 ## 📈 GitHub Stats
 
 ### My GitHub Stats
-![BenDXC's GitHub Stats](https://img.shields.io/github/stars/BenDXC?style=social)
+![BenDXC's GitHub Stats](https://img.shields.io/github/stats/BenDXC?style=social)
 
 
 
