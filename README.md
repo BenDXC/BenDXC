@@ -46,7 +46,8 @@ I work with a variety of programming languages, each suited for different types 
 ## 📈 GitHub Stats
 
 ### My GitHub Stats
-![BenDXC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenDXC&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![BenDXC's GitHub Stats](https://github-profile-trophy.vercel.app/?username=BenDXC)
+
 
 ### Most Used Languages
 ![BenDXC's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=radical)
