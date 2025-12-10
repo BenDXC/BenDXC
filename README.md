@@ -38,10 +38,10 @@ I work with a variety of programming languages, each suited for different types 
 ## 📈 GitHub Stats
 
 ### My GitHub Stats
-[![BenDXC's GitHub stats]([(https://github-readme-stats-eight-theta.vercel.app/api?username=BenDXC&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)])
+[![BenDXC's GitHub stats]([(https://github-readme-stats-eight-theta.app/api?username=BenDXC&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)])
 
 ### Most Used Languages
-![BenDXC's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=radical)
+![BenDXC's Most Used Languages](https://github-readme-stats-eight-theta.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=radical)
 
 ---
 
