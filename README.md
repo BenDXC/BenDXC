@@ -27,7 +27,7 @@ I work with a variety of programming languages, each suited for different types 
 ---
 ### 📦 **Active Repositories**:
 - [**Text Editor**](https://github.com/BenDXC/C-TextEditor)  
- BUilding a Text Editor in C
+ Building a Text Editor in C
 
 - [**React Project**](https://github.com/BenDXC/Foodable-Web-Dev)  
   Another active project I'm working on is CRUD App, focusing on **React JS & NodeJS** creating a full stack application for foodbanks.
