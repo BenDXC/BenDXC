@@ -55,7 +55,7 @@ I work with a variety of programming languages, each suited for different types 
 
 ## 🌱 Current Focus & Learning
 
-Right now, I'm diving deeper into **[new technologies or frameworks you're learning]**, and looking for ways to contribute to open-source projects that align with my interests in **[mention areas, like AI, systems programming, web development, etc.]**.
+Right now, I'm diving deeper into **[C, C++, Typescript]**, and looking for ways to contribute to open-source projects that align with my interests in **[Networking & Cyber Security]**.
 
 ---
 
