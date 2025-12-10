@@ -1,15 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A passion for IT</h3>
+# Welcome to My GitHub Profile 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://uk.linkedin.com/in/ben-danaka-1a82a4238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://uk.linkedin.com/in/ben-danaka-1a82a4238" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bendxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bendxc" height="30" width="40" /></a>
-</p>
+Hi there! I'm Ben, a passionate developer with a focus on **Java Programming** and other exciting languages and technologies. Below you'll find an overview of the languages I love working with and the repositories I am actively contributing to. Feel free to check out my work!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bendxc&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="bendxc" /></p>
+## 🛠️ Languages & Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bendxc&show_icons=true&theme=cobalt&locale=en" alt="bendxc" /></p>
+I work with a variety of programming languages, each suited for different types of projects. Some of my favorites are:
+
+### 🧑‍💻 **Primary Languages**:
+- **C**: My go-to language for system-level programming, embedded systems, and low-level tasks.
+- **C++**: Building high-performance applications with object-oriented and functional paradigms.
+- **Java**: Versatile for scripting, automation, data analysis, and AI development.
+
+### 🌐 **Web Technologies**:
+- **HTML/CSS**: Crafting beautiful and responsive web pages.
+- **NodeJS**: Developing dynamic web apps and enhancing user interactivity.
+- **React.js**: Building modern web UIs with React and its ecosystem.
+- **Typescript**: Building modern web UIs with Typescript and its ecosystem.
+
+### ⚡ **Other Tools & Technologies**:
+- **Git/GitHub**: Version control and collaboration.
+- **Docker**: Containerizing apps for easy deployment and scalability.
+- **CI/CD**: Building automated pipelines for testing and deployment.
+
+---
+### 📦 **Active Repositories**:
+- [**Repository 1**](https://github.com/yourusername/repository1)  
+  A brief description of this repository, what it does, and why it's important.
+
+- [**Repository 2**](https://github.com/yourusername/repository2)  
+  Another active project I'm working on, focusing on **[describe the technology or goal]**.
+
+- [**Repository 3**](https://github.com/yourusername/repository3)  
+  A project where I apply **[mention any specific tools, frameworks, or languages]** to solve **[mention the problem it solves]**.
+
+### 🛠️ **Notable Repositories**:
+- [**Legacy Project**](https://github.com/yourusername/legacy-project)  
+  A past project that helped me refine my **[mention skills or tools used]** and gain valuable experience in **[mention area of expertise]**.
+
+- [**Experimental Projects**](https://github.com/yourusername/experimental-projects)  
+  A collection of fun projects where I try out new technologies and approaches, such as **[mention technology or concept]**.
+
+---
+## 📈 GitHub Stats
+
+### My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenDXC&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=radical)
+
+---
+
+## 🌱 Current Focus & Learning
+
+Right now, I'm diving deeper into **[new technologies or frameworks you're learning]**, and looking for ways to contribute to open-source projects that align with my interests in **[mention areas, like AI, systems programming, web development, etc.]**.
+
+---
+
+## 📝 Let's Connect!
+
+Feel free to reach out to me for collaborations, advice, or just a casual chat about development. Here's where you can find me:
+
+- [LinkedIn](https://uk.linkedin.com/in/bendanaka)
+
+---
+
+Thank you for visiting my GitHub profile! 🚀
