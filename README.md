@@ -36,7 +36,6 @@ I work with a variety of programming languages, each suited for different types 
   A project where I apply **Java** to create a calculator that also solves **Hexadecimal, Decimal, Binary, Denary, Celsuis & Fahrenheit Conversions**
 ---
 ## 📈 GitHub Stats
-### BenDXC Stats
 ![BenDXC's GitHub stats](https://github-readme-stats1-beige.vercel.app/api?username=BenDXC&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 
 ### Most Used Languages:
