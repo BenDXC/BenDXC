@@ -46,10 +46,10 @@ I work with a variety of programming languages, each suited for different types 
 ## 📈 GitHub Stats
 
 ### My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bendxc&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![BenDXC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BenDXC&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=radical)
+![BenDXC's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=radical)
 
 ---
 
