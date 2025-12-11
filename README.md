@@ -46,11 +46,10 @@ Here are some of the key projects I’ve been working on:
 ---
 ## 📈 GitHub Stats
 
-Here’s a quick look at my GitHub activity:
-
 ![BenDXC's GitHub stats](https://github-readme-stats1-beige.vercel.app/api?username=BenDXC&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 
 **Top Languages**:
+
 ![BenDXC's Most Used Languages](https://github-readme-stats1-beige.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=material-palenight)
 
 ---
