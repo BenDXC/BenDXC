@@ -64,7 +64,6 @@ I’m currently diving deeper into **C++, TypeScript**, and **Networking & Cyber
 I’m always open to new opportunities, collaboration, or just a good tech discussion. Feel free to reach out to me via:
 
 - [LinkedIn](https://uk.linkedin.com/in/bendanaka)
-- [Twitter](https://twitter.com/BenDXC)
 
 ---
 ## 📌 Why Hire Me?
