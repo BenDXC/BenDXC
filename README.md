@@ -42,16 +42,6 @@ Here are some of the key projects I’ve been working on:
 - **Description**: A versatile calculator application built in **Java**. It supports basic arithmetic operations and conversions between **Hexadecimal**, **Decimal**, **Binary**, **Denary**, **Celsius & Fahrenheit**.
 - **Technologies**: Java
 - **Purpose**: Focuses on algorithm design and implementing various mathematical conversions.
-
----
-## 📈 GitHub Stats
-
-![BenDXC's GitHub stats](https://github-readme-stats1-beige.vercel.app/api?username=BenDXC&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
-
-## 📈 Top Languages
-
-![BenDXC's Most Used Languages](https://github-readme-stats1-beige.vercel.app/api/top-langs/?username=BenDXC&langs_count=10&layout=compact&theme=material-palenight)
-
 ---
 ## 🌱 Current Focus
 
