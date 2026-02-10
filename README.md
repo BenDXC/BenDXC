@@ -54,10 +54,3 @@ I’m currently diving deeper into **C++, TypeScript**, and **Networking & Cyber
 I’m always open to new opportunities, collaboration, or just a good tech discussion. Feel free to reach out to me via:
 
 - [LinkedIn](https://uk.linkedin.com/in/bendanaka)
-
----
-## 📌 Why Hire Me?
-
-- **Problem Solver**: I approach each project with a focus on efficiency and scalability, always striving to write clean and maintainable code.
-- **Collaborative**: I’ve worked with teams on full-stack development, and I thrive in environments that value communication and teamwork.
-- **Continuous Learner**: Whether it’s new languages, frameworks, or methodologies, I’m always improving my skills to stay at the forefront of the tech industry.
