@@ -33,7 +33,7 @@ Here are some of the key projects I’ve been working on:
 - **Technologies**: C
 - **Purpose**: Demonstrates low-level memory management and file handling in C, perfect for showcasing system-level programming skills.
 
-### [**Foodable - React & Node.js CRUD App**](https://github.com/BenDXC/Foodable-React-TypeScript)
+### [**Foodable - React & Node.js CRUD App**](https://github.com/BenDXC/Foodable)
 - **Description**: A full-stack web application to manage food donations and inventory for foodbanks. Users can **create**, **read**, **update**, and **delete** food entries.
 - **Technologies**: React.js, Node.js, Express, TypeScript, MongoDB
 - **Purpose**: A practical example of my ability to build modern web apps using **React** for the frontend and **Node.js** for the backend. This app also features **CRUD operations** and **RESTful API design**.
